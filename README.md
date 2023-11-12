@@ -1,2 +1,1 @@
-# TCP-scan
-Scan open ports in (LAN).
+It's for Iducational Purpose Only :)
