@@ -16,6 +16,6 @@ cat web1 |cut -f2 -d":" | cut -f1 -d"(" > web2
 cat web2
 
 
-
+chmod +x SCAN.sh
 
 
